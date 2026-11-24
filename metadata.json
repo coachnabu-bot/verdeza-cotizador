@@ -1,0 +1,6 @@
+{
+  "name": "Verdeza Cotizador",
+  "description": "Plataforma de cotización de lotes campestres para Verdeza Condominio de Campo con registro con Google, cálculo automatizado a 48 meses, inventario en tiempo real y descarga en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
